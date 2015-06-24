@@ -19,7 +19,7 @@ import freemarker.template.TemplateException;
 public class FreemarkerTemplateInJavaString {
 	public static void main(String[] args) {
 		
-		User user = new User ("Geo", "Tomas");
+		User user = new User ("Geo", "Thomas");
 		Template template = null;
 
 		try {
